@@ -10,16 +10,10 @@ export default function App() {
 
         <footer>
           This project was coded by{" "}
-          <a
-            href="https://www.delac.io/"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Matt Delac
-          </a>{" "}
+            Iryna Kravchenko{" "}
           and is{" "}
           <a
-            href="https://github.com/wecodeschool/react-weather-app"
+            href="https://github.com/k-ira-85/react-weather-app"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -27,7 +21,7 @@ export default function App() {
           </a>{" "}
           and{" "}
           <a
-            href="https://suspicious-beaver-111c4d.netlify.com/"
+            href="https://papaya-otter-398272.netlify.app"
             target="_blank"
             rel="noopener noreferrer"
           >
